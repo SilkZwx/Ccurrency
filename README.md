@@ -1,9 +1,5 @@
 # Ccurrency
 仮想通貨自動売買bot
-# 必要なライブラリ
-ta-lib
-
-python-bitbankcc
 # 予定
 まずはテクニカル分析を用いたトレードを目指す。
 
